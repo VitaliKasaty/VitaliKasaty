@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vitali
-#### I am Java back-end developer
+#### I am Java back-end developer, constantly learning this language and related technologies
 ![I am Java back-end developer](https://i120.fastpic.org/big/2022/1118/37/62189db75bdefa824e97cf56e39aa237.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
