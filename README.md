@@ -14,18 +14,14 @@
 #### IDE: ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 #### OS: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalikasaty&show_icons=true)[![VitaliKasaty's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VitaliKasaty)](https://leetcode.com/VitaliKasaty/)
+
 ### Social:
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='17'> https://www.linkedin.com/in/vitalikasaty 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='17'> https://www.instagram.com/vi7alini  
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='17'> https://t.me/vitalikasaty
-
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalikasaty&show_icons=true) [![VitaliKasaty's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VitaliKasaty)](https://leetcode.com/VitaliKasaty/)
-
 
 
 
