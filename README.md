@@ -17,7 +17,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalikasaty&show_icons=true)  [![VitaliKasaty's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VitaliKasaty)](https://leetcode.com/VitaliKasaty/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalikasaty&show_icons=true) [![VitaliKasaty's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VitaliKasaty)](https://leetcode.com/VitaliKasaty/)
 
 ### Social:
 
