@@ -3,8 +3,10 @@
 - CV - 
 - CV(HH.ru) 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliKasaty&show_icons=true)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliKasaty&show_icons=true)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=VitaliKasaty)](https://leetcode.com/VitaliKasaty/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliKasaty)](https://github.com/anuraghazra/github-readme-stats)
 
 
