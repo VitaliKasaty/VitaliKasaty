@@ -3,7 +3,7 @@
 ![I am Java back-end developer](https://i120.fastpic.org/big/2022/1118/37/62189db75bdefa824e97cf56e39aa237.jpg)
 
 ### 🔭 I’m currently looking for a job
-- CV: 
+- CV: https://drive.google.com/file/d/1EThW8o5xZJHzfW6-f7djPZ5pHwqC____/view?usp=share_link
 
 #### Main language: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 
